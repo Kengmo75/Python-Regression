@@ -4,8 +4,8 @@ Data analysis is a crucial aspect of any data science project. The ability to ef
 In this repository, we provide Python scripts demonstrating how to use the pandas library for data manipulation, including grouping and aggregating data, and how to perform simple linear regression using the scikit-learn library.
 To run the scripts in this repository, you need to have the following dependencies installed:
 
-Python (>=3.6)
-pandas
+Python (>=3.6),
+pandas,
 scikit-learn
 You can install the required dependencies using pip:
 pip install pandas scikit-learn
