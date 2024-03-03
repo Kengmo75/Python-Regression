@@ -9,19 +9,26 @@ pandas,
 scikit-learn
 You can install the required dependencies using pip:
 pip install pandas scikit-learn
+
 Clone this repository to your local machine:
 git clone https://github.com/Kengmo75/Python-Regression.git
+
 Navigate to the repository directory:
 cd Python-Regression
+
 You can then run the Python scripts provided in the repository using your preferred Python interpreter.
 The repository contains the following Python scripts:
 
 grouping_and_aggregating_data.py: Demonstrates how to group and aggregate data using pandas.
+
 simple_linear_regression.py: Demonstrates how to perform simple linear regression using scikit-learn.
+
 Each script is extensively commented to explain the functionality and usage.
 We provide examples demonstrating how to use the scripts in real-world scenarios. These examples include:
 
 Grouping and aggregating data from a dataset to calculate summary statistics.
+
 Performing simple linear regression on a dataset to predict future values and make imformed business decisions
+
 Please refer to the examples directory for detailed instructions on running these examples.
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
